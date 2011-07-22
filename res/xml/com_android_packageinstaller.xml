@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/title_bar_medium">@drawable/frameworks_res_title_bar_medium</item>
+</resource-redirections>

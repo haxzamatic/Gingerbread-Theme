@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_0" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_1" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_2" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_3" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_4" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_5" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_6" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_7" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_8" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_9" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_10" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_9" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_8" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_7" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_6" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_5" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_4" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_3" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_2" />
+    <item android:duration="200" android:drawable="@drawable/com_android_mms_stat_notify_mms_1" />
+</animation-list>

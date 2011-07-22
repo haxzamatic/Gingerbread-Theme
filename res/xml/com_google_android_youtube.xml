@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_youtube">@drawable/com_google_android_youtube_ic_launcher_youtube</item>
+    <item name="drawable/yt_widget_background">@drawable/appwidget_bg</item>
+    <item name="drawable/player_scrubber">@drawable/com_google_android_youtube_player_scrubber</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+</resource-redirections>

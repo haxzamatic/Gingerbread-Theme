@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_0" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_1" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_2" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_3" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_4" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_5" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_6" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_7" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_8" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_9" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_10" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_9" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_8" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_7" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_6" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_5" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_4" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_3" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_2" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_chat_1" />
+</animation-list>

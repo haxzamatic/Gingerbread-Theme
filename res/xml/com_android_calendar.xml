@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/app_icon">@drawable/com_android_calendar_app_icon</item>
+</resource-redirections>

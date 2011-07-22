@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_folder">@drawable/org_openintents_filemanager_ic_launcher_folder</item>
+    <item name="drawable/ic_launcher_folder_open">@drawable/org_openintents_filemanager_ic_launcher_folder_open</item>
+    <item name="drawable/ic_launcher_home">@drawable/org_openintents_filemanager_ic_launcher_home</item>
+    <item name="drawable/icon_file">@drawable/org_openintents_filemanager_icon_file</item>
+    <item name="drawable/icon_sdcard">@drawable/org_openintents_filemanager_icon_sdcard</item>
+</resource-redirections>

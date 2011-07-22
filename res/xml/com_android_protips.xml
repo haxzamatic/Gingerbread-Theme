@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/droid_widget_focused">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/droid_widget_normal">@drawable/appwidget_bg</item>
+    <item name="drawable/droid_widget_pressed">@drawable/appwidget_bg_press</item>
+    <item name="drawable/all_apps">@drawable/com_android_launcher_all_apps_button</item>
+    <item name="drawable/droidman_closed">@drawable/com_android_protips_droidman_closed</item>
+    <item name="drawable/droidman_down_closed">@drawable/com_android_protips_droidman_down_closed</item>
+    <item name="drawable/droidman_down_open">@drawable/com_android_protips_droidman_down_open</item>
+    <item name="drawable/droidman_open">@drawable/com_android_protips_droidman_open</item>
+    <item name="drawable/icon">@drawable/com_android_protips_icon</item>
+</resource-redirections>

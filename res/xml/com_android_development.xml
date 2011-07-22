@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_devtools">@drawable/com_android_development_ic_launcher_devtools</item>
+</resource-redirections>

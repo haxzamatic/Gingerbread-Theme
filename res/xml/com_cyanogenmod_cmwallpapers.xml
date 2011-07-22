@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/cyanogenmod_icon">@drawable/com_cyanogenmod_cmwallpapers_cyanogenmod_icon</item>
+</resource-redirections>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="Gingerbread" parent="@android:style/Theme" />
+	<style name="TallTitleBarTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+		<item name="android:background">@drawable/com_android_settings_list_dark_bg</item>
+    </style>
+	<style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/Animation.OptionsPanel">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/Animation.OptionsPanel">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="Widget.ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/frameworks_res_progress_horizontal</item>
+    </style>
+    <style name="ProgressCustom" parent="@android:style/Theme">
+        <item name="android:progressBarStyleHorizontal">@style/Widget.ProgressBar.Horizontal</item>
+    </style>
+	<style name="NewsTicker" />
+    <style name="NewsTicker.Title" parent="@style/NewsTicker">
+        <item name="android:maxLines">2</item>
+		<item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="NewsTicker.Label" parent="@style/NewsTicker" />
+</resources>

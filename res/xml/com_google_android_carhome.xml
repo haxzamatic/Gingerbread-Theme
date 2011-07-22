@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/container_focus">@drawable/com_google_android_carhome_container_focus</item>
+    <item name="drawable/arrow_left_focus">@drawable/com_google_android_carhome_arrow_left_focus</item>
+    <item name="drawable/arrow_left_pressed">@drawable/com_google_android_carhome_arrow_left_pressed</item>
+    <item name="drawable/arrow_right_focus">@drawable/com_google_android_carhome_arrow_right_focus</item>
+    <item name="drawable/arrow_right_pressed">@drawable/com_google_android_carhome_arrow_right_pressed</item>
+</resource-redirections>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/app_terminal">@drawable/com_android_term_app_terminal</item>
+</resource-redirections>

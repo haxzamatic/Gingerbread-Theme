@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_soundrecorder">@drawable/com_android_soundrecorder_ic_launcher_soundrecorder</item>
+    <item name="drawable/gradient_bg">@drawable/com_android_soundrecorder_gradient_bg</item>
+    <item name="drawable/idle_led">@drawable/com_android_soundrecorder_idle_led</item>
+    <item name="drawable/play">@drawable/com_android_soundrecorder_play</item>
+    <item name="drawable/record">@drawable/com_android_soundrecorder_record</item>
+    <item name="drawable/recording_led">@drawable/com_android_soundrecorder_recording_led</item>
+    <item name="drawable/stop">@drawable/com_android_soundrecorder_stop</item>
+    <item name="drawable/vumeter">@drawable/com_android_soundrecorder_vumeter</item>
+</resource-redirections>

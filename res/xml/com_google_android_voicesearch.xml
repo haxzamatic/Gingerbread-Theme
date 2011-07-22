@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/app_voicesearch">@drawable/com_google_android_voicesearch_app_voicesearch</item>
+</resource-redirections>

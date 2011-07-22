@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gingerbread Theme</string>
+	<string name="helper_theme_title">Gingerbread Theme</string>
+	<string name="lp_theme_title">Gingerbread Theme</string>
+	<string name="adw_theme_title">Gingerbread Theme</string>
+	<string name="dock_theme_title">Gingerbread Theme</string>
+	<string name="cm_theme_name">Gingerbread Theme</string>
+	<string name="cm_theme_title">Gingerbread Theme</string>
+	<string name="wp_theme_title">Gingerbread Theme</string>
+    <string name="theme_name">Gingerbread Theme</string>
+    <string name="style_appearance_name">Gingerbread Theme</string>
+    <string name="author">Haxzamatic</string>
+    <string name="copyright">Haxzamatic</string>
+    <string name="apply">Apply Wallpaper</string>
+	<string name="theme_title_text">Gingerbread Theme</string>
+	<string name="theme_desc_text">A Gingerbread Theme</string>
+	<string name="tv_theme_header_text">Messages</string>
+	<string name="tv_theme_footer_text">All Threads</string>
+	<string name="cmtheme">Apply T-Mobile Theme</string>
+    <string name="adwtheme">Apply ADW Theme</string>
+    <string name="adwsettings">ADW Settings</string>
+    <string name="wallpaper">Apply Wallpaper</string>
+    <string name="filebugs">Bug Report Or Request</string>
+    <string name="whoami">Developer Webpage</string>
+    <string name="marketinfo">Rate Theme</string>
+    <string name="moredev">Get More Apps</string>
+    <string name="lpsetting">Launcher Pro Settings</string>
+</resources>

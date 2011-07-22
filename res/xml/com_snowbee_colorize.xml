@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widget_listview_button_focused">@drawable/com_fede_launcher_widget_twitter_timeline_button_selected</item>
+    <item name="drawable/widget_listview_button_normal">@drawable/com_fede_launcher_widget_twitter_timeline_button_normal</item>
+    <item name="drawable/widget_listview_button_pressed">@drawable/com_fede_launcher_widget_twitter_timeline_button_selected</item>
+    <item name="drawable/widget_menu_button_focused">@drawable/com_fede_launcher_widget_twitter_timeline_button_selected</item>
+    <item name="drawable/widget_menu_button_normal">@drawable/com_fede_launcher_widget_twitter_timeline_button_normal</item>
+    <item name="drawable/widget_menu_button_pressed">@drawable/com_fede_launcher_widget_twitter_timeline_button_selected</item>
+    <item name="drawable/widget_post_button_focused">@drawable/com_fede_launcher_widget_sms_compose_button_focused</item>
+    <item name="drawable/widget_post_button_normal">@drawable/com_fede_launcher_widget_sms_compose_button_normal</item>
+    <item name="drawable/widget_post_button_pressed">@drawable/com_fede_launcher_widget_sms_compose_button_pressed</item>
+    <item name="drawable/widget_refresh_button_focused">@drawable/com_fede_launcher_widget_footer_bg_pressed</item>
+    <item name="drawable/widget_refresh_button_normal">@drawable/com_fede_launcher_widget_footer_bg_normal</item>
+    <item name="drawable/widget_refresh_button_pressed">@drawable/com_fede_launcher_widget_footer_bg_pressed</item>
+    <item name="drawable/widget_refresh_icon">@drawable/com_fede_launcher_widget_footer_bg_normal</item>
+    <item name="drawable/widget_setting_button_focused">@drawable/com_fede_launcher_widget_setting_button_focused</item>
+    <item name="drawable/widget_setting_button_normal">@drawable/com_fede_launcher_widget_setting_button_normal</item>
+    <item name="drawable/widget_setting_button_pressed">@drawable/com_fede_launcher_widget_setting_button_pressed</item>
+    <item name="drawable/widget_header_shadow">@drawable/com_fede_launcher_widget_header_shadow</item>
+    <item name="drawable/widget_list_divider">@drawable/com_fede_launcher_widget_list_divider</item>
+    <item name="drawable/widget_gridview_button_pressed">@drawable/com_fede_launcher_widget_calendar_agenda_button_pressed</item>
+    <item name="drawable/widget_gridview_button_normal">@drawable/com_fede_launcher_widget_calendar_agenda_button_normal</item>
+    <item name="drawable/widget_gridview_button_focused">@drawable/com_fede_launcher_widget_calendar_agenda_button_focused</item>
+    <item name="drawable/widget_header_bg_cyan">@drawable/com_fede_launcher_widget_header_bg</item>
+    <item name="drawable/widget_footer_bg_cyan">@drawable/com_fede_launcher_widget_footer_bg_normal</item>
+    <item name="drawable/widget_add_button_focused">@drawable/com_fede_launcher_widget_calendar_add_button_focused</item>
+    <item name="drawable/widget_add_button_normal">@drawable/com_fede_launcher_widget_calendar_add_button_normal</item>
+    <item name="drawable/widget_add_button_pressed">@drawable/com_fede_launcher_widget_calendar_add_button_pressed</item>
+    <item name="drawable/btn_blue_normal">@drawable/com_fede_launcher_btn_blank</item>
+    <item name="drawable/btn_blue_pressed">@drawable/com_fede_launcher_btn_blank</item>
+    <item name="drawable/btn_blue_selected">@drawable/com_fede_launcher_btn_blank</item>
+    <item name="drawable/btn_onscreen_default">@drawable/com_fede_launcher_btn_blank</item>
+    <item name="drawable/btn_onscreen_disabled">@drawable/com_fede_launcher_btn_blank</item>
+    <item name="drawable/btn_onscreen_pressed">@drawable/com_fede_launcher_btn_blank</item>
+    <item name="drawable/btn_onscreen_selected">@drawable/com_fede_launcher_btn_blank</item>
+    <item name="drawable/icon">@drawable/com_snowbee_colorize_icon</item>
+</resource-redirections>

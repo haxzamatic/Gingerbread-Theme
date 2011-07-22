@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/com_koushikdutta_rommanager_rommanager_icon</item>
+	<item name="drawable/progress">@drawable/com_koushikdutta_rommanager_rommanager_progress</item>
+</resource-redirections>

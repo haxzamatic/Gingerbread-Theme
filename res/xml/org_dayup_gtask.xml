@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widgets_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/icon">@drawable/org_dayup_gtask_icon</item>
+</resource-redirections>

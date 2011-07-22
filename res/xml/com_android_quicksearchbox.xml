@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/corpus_indicator_bg_pressed">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_pressed</item>
+    <item name="drawable/corpus_indicator_bg_focused">@drawable/com_google_android_googlequicksearchbox_corpus_indicator_bg_focused</item>
+    <item name="drawable/voice_search_hint_bg_pressed">@drawable/com_android_quicksearchbox_voice_search_hint_bg_pressed</item>
+    <item name="drawable/voice_search_hint_bg_selected">@drawable/com_android_quicksearchbox_voice_search_hint_bg_selected</item>
+    <item name="drawable/voice_search_hint_close_pressed">@drawable/com_android_quicksearchbox_voice_search_hint_close_pressed</item>
+    <item name="drawable/voice_search_hint_close_selected">@drawable/com_android_quicksearchbox_voice_search_hint_close_selected</item>
+    <item name="drawable/corpus_grid_item_bg_focused">@drawable/com_android_quicksearchbox_corpus_grid_item_bg_focused</item>
+    <item name="drawable/corpus_grid_item_bg_pressed">@drawable/com_android_quicksearchbox_corpus_grid_item_bg_pressed</item>
+    <item name="drawable/corpus_edit_items_bg_focused">@drawable/com_android_quicksearchbox_corpus_edit_items_bg_focused</item>
+    <item name="drawable/corpus_edit_items_bg_pressed">@drawable/com_android_quicksearchbox_corpus_edit_items_bg_pressed</item>
+    <item name="drawable/btn_search_dialog_pressed">@drawable/frameworks_res_btn_search_dialog_pressed</item>
+    <item name="drawable/btn_search_dialog_selected">@drawable/frameworks_res_btn_search_dialog_selected</item>
+    <item name="drawable/btn_search_dialog_voice_pressed">@drawable/frameworks_res_btn_search_dialog_voice_pressed</item>
+    <item name="drawable/btn_search_dialog_voice_selected">@drawable/frameworks_res_btn_search_dialog_voice_selected</item>
+    <item name="drawable/edit_query_background_pressed">@drawable/frameworks_res_list_selector_background_pressed</item>
+    <item name="drawable/edit_query_background_selected">@drawable/frameworks_res_list_selector_background_focus</item>
+    <item name="drawable/textfield_search_empty_pressed">@drawable/frameworks_res_textfield_search_empty_pressed</item>
+    <item name="drawable/textfield_search_empty_selected">@drawable/frameworks_res_textfield_search_empty_selected</item>
+    <item name="drawable/textfield_search_pressed">@drawable/frameworks_res_textfield_search_pressed</item>
+    <item name="drawable/textfield_search_selected">@drawable/frameworks_res_textfield_search_selected</item>
+    <item name="drawable/suggestion_background_focus">@drawable/frameworks_res_menuitem_background_focus</item>
+    <item name="drawable/suggestion_background_pressed">@drawable/frameworks_res_menuitem_background_pressed</item>
+    <item name="drawable/corpus_icon_web">@drawable/com_android_browser_ic_launcher_browser</item>
+</resource-redirections>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent" android:layout_width="wrap_content" android:background="@drawable/com_android_settings_list_dark_bg" android:orientation="horizontal">
+<ImageView android:layout_height="100dip" android:src="@drawable/theme_header" android:layout_width="fill_parent" android:id="@+id/imageView1"></ImageView>
+<ScrollView android:layout_width="fill_parent" android:id="@+id/scrollView1" android:layout_height="wrap_content">
+    <LinearLayout android:id="@+id/linearLayout2" android:layout_height="fill_parent" android:orientation="vertical" android:layout_width="250dip">
+        <Button android:layout_margin="5dip" android:layout_weight="1" android:text="@string/wallpaper" android:id="@+id/wallpaper" android:layout_width="fill_parent" android:layout_height="fill_parent"></Button>
+        <Button android:layout_margin="5dip" android:layout_weight="1" android:text="@string/cmtheme" android:id="@+id/cmtheme" android:layout_width="fill_parent" android:layout_height="fill_parent"></Button>
+        <Button android:layout_margin="5dip" android:layout_weight="1" android:text="@string/adwtheme" android:id="@+id/adwtheme" android:layout_width="fill_parent" android:layout_height="fill_parent"></Button>
+        <Button android:layout_margin="5dip" android:layout_weight="1" android:text="@string/lpsetting" android:id="@+id/lpsetting" android:layout_width="fill_parent" android:layout_height="fill_parent"></Button>
+        <Button android:layout_margin="5dip" android:layout_weight="1" android:text="@string/filebugs" android:id="@+id/filebugs" android:layout_width="fill_parent" android:layout_height="fill_parent"></Button>
+        <Button android:layout_margin="5dip" android:layout_weight="1" android:text="@string/whoami" android:id="@+id/web" android:layout_width="fill_parent" android:layout_height="fill_parent"></Button>
+        <Button android:layout_margin="5dip" android:layout_weight="1" android:text="@string/marketinfo" android:id="@+id/marketinfo" android:layout_width="fill_parent" android:layout_height="fill_parent"></Button>
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

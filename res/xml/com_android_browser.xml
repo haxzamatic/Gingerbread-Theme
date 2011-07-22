@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/browser_thumbnail">@drawable/com_android_browser_browser_thumbnail</item>
+    <item name="drawable/ic_launcher_browser">@drawable/com_android_browser_ic_launcher_browser</item>
+    <item name="drawable/ic_launcher_shortcut_browser_bookmark">@drawable/com_android_browser_ic_launcher_shortcut_browser_bookmark</item>
+    <item name="drawable/ic_launcher_shortcut_browser_bookmark_icon">@drawable/com_android_browser_ic_launcher_shortcut_browser_bookmark_icon</item>
+    <item name="drawable/search_plate_browser">@drawable/com_android_browser_search_plate_browser</item>
+    <item name="drawable/ic_btn_bookmarks">@drawable/com_android_browser_ic_btn_bookmarks</item>
+    <item name="drawable/btn_close_window">@drawable/com_android_browser_btn_close_window</item>
+    <item name="drawable/ic_btn_close_panel">@drawable/com_android_browser_ic_btn_close_panel</item>
+    <item name="drawable/ic_btn_stop_v2">@drawable/com_android_browser_ic_btn_stop_v2</item>
+    <item name="drawable/ic_tab_bookmarks_selected">@drawable/com_android_browser_ic_tab_bookmarks_selected</item>
+    <item name="drawable/ic_tab_bookmarks_unselected">@drawable/com_android_browser_ic_tab_bookmarks_unselected</item>
+    <item name="drawable/ic_tab_history_selected">@drawable/com_android_browser_ic_tab_history_selected</item>
+    <item name="drawable/ic_tab_history_unselected">@drawable/com_android_browser_ic_tab_history_unselected</item>
+    <item name="drawable/ic_tab_most_visited_selected">@drawable/com_android_browser_ic_tab_most_visited_selected</item>
+    <item name="drawable/ic_tab_most_visited_unselected">@drawable/com_android_browser_ic_tab_most_visited_unselected</item>
+</resource-redirections>

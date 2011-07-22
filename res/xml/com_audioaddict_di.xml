@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/statusbar">@drawable/com_audioaddict_di_statusbar</item>
+</resource-redirections>

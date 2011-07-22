@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/background">@drawable/appwidget_bg</item>
+	<item name="drawable/background_land">@drawable/appwidget_bg</item>
+	<item name="drawable/background_small">@drawable/appwidget_bg</item>
+</resource-redirections>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/browser_thumbnail">@drawable/browser_thumbnail</item>
+    <item name="drawable/ic_launcher_browser">@drawable/ic_launcher_browser</item>
+    <item name="drawable/ic_launcher_shortcut_browser_bookmark">@drawable/ic_launcher_shortcut_browser_bookmark</item>
+    <item name="drawable/ic_launcher_shortcut_browser_bookmark_icon">@drawable/ic_launcher_shortcut_browser_bookmark_icon</item>
+    <item name="drawable/search_plate_browser">@drawable/search_plate_browser</item>
+    <item name="drawable/ic_btn_bookmarks">@drawable/ic_btn_bookmarks</item>
+</resource-redirections>

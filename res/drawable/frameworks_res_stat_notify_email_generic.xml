@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_0" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_1" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_2" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_3" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_4" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_5" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_6" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_7" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_8" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_9" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_10" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_9" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_8" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_7" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_6" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_5" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_4" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_3" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_2" />
+    <item android:duration="200" android:drawable="@drawable/frameworks_res_stat_notify_email_generic_1" />
+</animation-list>

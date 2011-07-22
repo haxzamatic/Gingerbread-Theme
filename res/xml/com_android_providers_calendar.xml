@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/app_icon">@drawable/com_android_calendar_app_icon</item>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_bg_press">@drawable/appwidget_bg_press</item>
+    <item name="drawable/appwidget_calendar_bgtop_blue">@drawable/com_android_providers_calendar_appwidget_calendar_bgtop_blue</item>
+    <item name="color/appwidget_date">@color/white</item>
+    <item name="color/appwidget_when">@color/white</item>
+    <item name="color/appwidget_title">@color/white</item>
+    <item name="color/appwidget_where">@color/white</item>
+    <item name="color/appwidget_conflict">@color/white</item>
+    <item name="color/appwidget_no_events">@color/white</item>
+</resource-redirections>

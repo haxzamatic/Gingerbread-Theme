@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widget_border">@drawable/appwidget_bg</item>
+	<item name="drawable/icon">@drawable/com_mb_android_nzbairpremium_icon</item>
+	<item name="drawable/sabnzb">@drawable/com_mb_android_nzbairpremium_icon</item>
+</resource-redirections>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/bulb_off">@drawable/net_cactii_flash2_bulb_off</item>
+    <item name="drawable/bulb_on">@drawable/net_cactii_flash2_bulb_on</item>
+    <item name="drawable/icon">@drawable/net_cactii_flash2_icon</item>
+    <item name="drawable/notification_icon">@drawable/net_cactii_flash2_notification_icon</item>
+    <item name="drawable/widget_off">@drawable/net_cactii_flash2_widget_off</item>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press_c</item>
+</resource-redirections>

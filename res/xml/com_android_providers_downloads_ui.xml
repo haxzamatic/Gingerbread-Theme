@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/ic_launcher_download">@drawable/com_android_providers_downloads_ui_ic_launcher_download</item>
+</resource-redirections>

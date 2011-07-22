@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_0" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_1" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_2" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_3" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_4" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_5" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_6" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_7" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_8" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_9" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_10" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_9" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_8" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_7" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_6" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_5" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_4" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_3" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_2" />
+    <item android:duration="200" android:drawable="@drawable/com_thedeck_android_app_blackbird_1" />
+</animation-list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_messaging_listview_footer_refresh_color">#FFFF</color>
+	<color name="widget_messaging_listview_header_title_color">#FFFF</color>
+	<color name="widget_messaging_listview_header_title_shadowcolor">#0000</color>
+	<color name="widget_messaging_listview_message_sender_color">#FFF</color>
+	<color name="widget_messaging_listview_message_time_color">#000</color>
+	<color name="widget_messaging_listview_message_text_color">#FFF</color>
+</resources>

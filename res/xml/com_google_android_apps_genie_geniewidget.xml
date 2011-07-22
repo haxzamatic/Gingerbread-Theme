@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_dark_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_dark_bg_focus">@drawable/appwidget_bg_focus</item>
+    <item name="drawable/appwidget_dark_bg_press">@drawable/appwidget_bg_press</item>
+    <item name="drawable/appwidget_inner_focus_c">@drawable/appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_inner_focus_l">@drawable/appwidget_inner_focus_l</item>
+    <item name="drawable/appwidget_inner_focus_r">@drawable/appwidget_inner_focus_r</item>
+    <item name="drawable/appwidget_inner_press_c">@drawable/appwidget_inner_press_c</item>
+    <item name="drawable/appwidget_inner_press_l">@drawable/appwidget_inner_press_l</item>
+    <item name="drawable/appwidget_inner_press_r">@drawable/appwidget_inner_press_r</item>
+    <item name="drawable/icon">@drawable/com_google_android_apps_genie_geniewidget_geniwidget_icon</item>
+    <item name="drawable/ic_launcher_news">@drawable/com_google_android_apps_genie_geniewidget_icon</item>
+    <item name="drawable/ic_launcher_news_weather">@drawable/com_google_android_apps_genie_geniewidget_icon</item>
+    <item name="drawable/ic_launcher_weather">@drawable/com_google_android_apps_genie_geniewidget_ic_launcher_weather</item>
+    <item name="drawable/tab_weather_focus">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_focus</item>
+    <item name="drawable/tab_weather_press">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_press</item>
+    <item name="drawable/tab_weather_unselected_press">@drawable/com_google_android_apps_genie_geniewidget_tab_weather_unselected_press</item>
+    <item name="drawable/weather_info_btn_clicked">@drawable/com_google_android_apps_genie_geniewidget_weather_info_btn_clicked</item>
+</resource-redirections>

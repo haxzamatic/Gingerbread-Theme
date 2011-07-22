@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/appwidget_bg">@drawable/appwidget_bg</item>
+    <item name="drawable/appwidget_focus">@drawable/appwidget_inner_focus_c</item>
+    <item name="drawable/appwidget_press">@drawable/appwidget_inner_press_c</item>
+</resource-redirections>

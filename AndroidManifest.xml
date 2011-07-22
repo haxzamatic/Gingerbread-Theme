@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest android:installLocation="internalOnly" android:versionCode="1" android:versionName="0.1" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html" package="com.yourname.yourappname">
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+
+    <uses-feature android:name="com.tmobile.software.themes" />
+
+    <supports-screens android:resizeable="true" 
+                      android:smallScreens="false"  
+                      android:normalScreens="true" 
+                      android:largeScreens="true" 
+                      android:xlargeScreens="false"
+                      android:anyDensity="true" />
+
+    <application android:label="@string/helper_theme_title" android:icon="@drawable/theme_icon">
+              <activity android:name=".Helper"
+                  android:label="@string/theme_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+	
+        <activity android:label="@string/lp_theme_title" android:name="Skin">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+				<category android:name="com.fede.launcher.SKIN_WIDGET_PEOPLE" />
+                <category android:name="com.fede.launcher.SKIN_WIDGET_BOOKMARKS" />
+                <category android:name="com.fede.launcher.SKIN_WIDGET_CALENDAR" />
+                <category android:name="com.fede.launcher.SKIN_WIDGET_MESSAGING" />
+                <category android:name="com.fede.launcher.SKIN_WIDGET_TWITTER" />
+                <category android:name="com.fede.launcher.SKIN_WIDGET_FACEBOOK" />
+                <category android:name="com.fede.launcher.SKIN_WIDGET_FRIENDS" />
+                <category android:name="com.fede.launcher.SKIN_WIDGET_GMAIL" />
+            </intent-filter>
+        </activity>
+		
+		<activity android:name="ThemeActivity">
+			<intent-filter>
+			<action android:name="android.intent.action.MAIN" />
+        	<category android:name="org.enate.BESTApp.Theme" />
+        	</intent-filter> 
+		</activity>
+		
+        <activity android:label="@string/adw_theme_title" android:name=".main">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="org.adw.launcher.THEMES" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+        <activity android:label="@string/dock_theme_title" android:icon="@drawable/theme_icon" android:name=".docks">
+            <intent-filter>
+                <action android:name="android.intent.action.PICK" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*" />
+            </intent-filter>
+        </activity>
+		
+        <activity android:label="@string/wp_theme_title" android:icon="@drawable/wallpaper_icon" android:name="wallpaper" android:screenOrientation="nosensor" android:finishOnCloseSystemDialogs="true">
+            <intent-filter>
+                <action android:name="android.intent.action.SET_WALLPAPER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+        <provider android:name="docksProvider" android:authorities="com.yourname.yourappname.docksProvider" />
+		
+    </application>
+	
+	<application android:icon="@drawable/cmtheme_icon" android:label="@string/cm_theme_title">
+              <activity android:name="com.cmyourname.yourappname.Foo"
+                  android:label="@string/theme_name"/>
+    </application>
+	
+    <theme pluto:themeId="Gingerbread" pluto:styleId="@style/Gingerbread" pluto:name="@string/cm_theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:styleName="@string/style_appearance_name">
+        <meta-data android:name="com.tmobile.theme.redirections" android:resource="@xml/redirections" />
+    </theme>
+	
+</manifest>

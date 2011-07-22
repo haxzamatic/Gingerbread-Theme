@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nine-patch android:src="@drawable/com_fede_launcher_calendar_agenda_day_background"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

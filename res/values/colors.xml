@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- This controls TMobile theme engine edits. -->
+    <color name="safe_mode_text">#80ffffff</color>
+    <color name="color_primary_focus">#ffff8a12</color>
+    <color name="color_primary_press">#ffffb600</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_dark">#ff000000</color>
+    <color name="bright_foreground_dark">#ffffffff</color>
+    <color name="bright_foreground_dark_disabled">#80ffffff</color>
+    <color name="bright_foreground_dark_inverse">#ff000000</color>
+    <color name="dim_foreground_dark">#ffbebebe</color>
+    <color name="dim_foreground_dark_disabled">#80bebebe</color>
+    <color name="dim_foreground_dark_inverse">#ff323232</color>
+    <color name="dim_foreground_dark_inverse_disabled">#80323232</color>
+    <color name="hint_foreground_dark">#ff808080</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="dim_foreground_light">#ff323232</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ffbebebe</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="hint_foreground_light">#ff808080</color>
+    <color name="lighter_gray">#ffdddddd</color>
+    <color name="darker_gray">#ffaaaaaa</color>
+    <color name="perms_dangerous_grp_color">#ff80d6de</color>
+    <color name="perms_dangerous_perm_color">#ff3b5998</color>
+    <color name="shadow">#cc222222</color>
+    <color name="launcher_glow_pressed">#ffffb600</color>
+    <color name="launcher_glow_focused">#ffff8a12</color>
+	<!-- This controls BESTApp themes. -->
+	<color name="tv_theme_header_text_color">#FFFFFFFF</color>
+    <color name="tv_theme_unread_sms_text_color">#FFFFFFFF</color>
+    <color name="layout_theme_list_frame_color">#77000000</color>
+	<color name="tv_theme_footer_text_color">#FFFFFFFF</color>
+	<!-- This controls Market. -->
+	<color name="header_background_light1">#ff99c000</color>
+    <color name="header_background_medium1">#ff90b000</color>
+    <color name="header_background_medium2">#ff709000</color>
+    <color name="header_background_medium3">#ff80a600</color>
+    <color name="header_background_dark1">#ff465d00</color>
+    <color name="header_background_dark2">#ff617b00</color>
+    <color name="header_background_highlight1">#ff9fc000</color>
+    <color name="header_background_highlightTransparent1">#009fc000</color>
+    <color name="header_background_highlight2">#ffa5d300</color>
+    <color name="header_background_highdark1">#ff77a000</color>
+    <color name="header_background_highdarkTransparent1">#0077a000</color>
+    <color name="header_background_highdark2">#ff617b00</color>
+</resources>

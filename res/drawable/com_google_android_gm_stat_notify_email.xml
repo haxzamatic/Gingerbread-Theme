@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_0" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_1" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_2" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_3" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_4" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_5" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_6" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_7" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_8" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_9" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_10" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_9" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_8" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_7" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_6" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_5" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_4" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_3" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_2" />
+    <item android:duration="200" android:drawable="@drawable/com_google_android_gm_stat_notify_email_1" />
+</animation-list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/app_icon">@drawable/de_dbware_circlelauncher_light_app_icon</item>
+    <item name="drawable/icon_000000">@drawable/de_dbware_circlelauncher_light_icon_000000</item>
+</resource-redirections>

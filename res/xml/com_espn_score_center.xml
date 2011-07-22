@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widget_bg">@drawable/appwidget_480</item>
+    <item name="drawable/widget_tab">@drawable/com_android_camera_menu_popup_triangle</item>
+</resource-redirections>

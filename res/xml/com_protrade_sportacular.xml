@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/widget_nascar_background">@drawable/appwidget_bg</item>
+	<item name="drawable/scrollable_widget_bg">@drawable/appwidget_bg</item>
+	<item name="drawable/single_score_widget_bg">@drawable/appwidget_bg</item>
+</resource-redirections>
